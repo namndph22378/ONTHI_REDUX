@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Sản phẩm 1",
+      "description": "Mô tả sản phẩm 1",
+      "quantity": 10,
+      "origin": "Việt Nam"
+    },
+    {
+      "id": 2,
+      "name": "Sản phẩm 2",
+      "description": "Mô tả sản phẩm 2",
+      "quantity": 15,
+      "origin": "Trung Quốc"
+    },
+    {
+      "name": "Bàn phím",
+      "description": "nguyen duc nam",
+      "quantity": 1,
+      "origin": "TrungQuốc",
+      "id": 8
+    },
+    {
+      "name": "Đức Nam update",
+      "description": "admin",
+      "quantity": 1111,
+      "origin": "ĐàiLoan",
+      "id": 14
+    }
+  ]
+}
